@@ -12,7 +12,7 @@
  
  🔭 I'm currently studying at  **a Bootcamp**
  
- 🌱 I’m currently learning **Docker, Flutter, AWS, MongoDb, Postgresql**
+ 🌱 I’m currently learning **Docker, Flutter, AWS, MongoDb, Postgresql, NextJs**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://chat.whatsapp.com/DW86JsixyKk7d4aLonosxL)**
 
