@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I'm currently studying at  **a Bootcamp**
+ 🔭 I'm currently working as a **Software Engineer**
  
  🌱 I’m currently learning **Docker, Flutter, AWS, MongoDb, Postgresql, NextJs, Python**
 
